@@ -1,0 +1,18 @@
+{
+    "name": "cordova-plugin-simple-camera",
+    "version": "1.0.0",
+    "description": "Cordova Simple Camera Plugin",
+    "cordova": {
+        "id": "cordova-plugin-simple-camera",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "cordova",
+        "camera",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "author": "Andrew Trusty"
+}
